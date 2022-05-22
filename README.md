@@ -1,2 +1,2 @@
 # KOF-game
-a little KOF game writen by JQuery and canvas
+a little KOF web game writen by JQuery and canvas
